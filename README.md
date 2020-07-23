@@ -4,4 +4,4 @@ Repozitář pro účely cvičení předmětu [B00364 Zdravotnická informatika (
 
 Video k přednášce "Velmi jemný úvod do biomedicínské statistiky" ze dne 28. května 2020 je níže.
 
-[![sleduj video](https://img.youtube.com/vi/-Swztoc8DLU/maxresdefault.jpg)](https://youtu.be/-Swztoc8DLU)
+[![sleduj video](https://raw.githubusercontent.com/LStepanek/B00364_Zdravotnicka_informatika/master/_thumbnail_.png)](https://youtu.be/-Swztoc8DLU)
